@@ -1,3 +1,4 @@
+#Enter coordinates of n points and display the coordinates of closest two points
 import java.util.Scanner;
 class Points
 {
